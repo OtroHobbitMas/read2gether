@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "read2gether": {
+      "hosting": {
+        "read2gether": [
+          "read2gether"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "read2gether"
+  }
+}
